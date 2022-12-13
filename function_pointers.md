@@ -1,7 +1,7 @@
 <!-- ref [https://www.cprogramming.com/tutorial/function-pointers.html] -->
 # Function pointer in c and c++
 
-function pointer is a variable that stores the baddress of function that can be called later throuhgh that function pointer
+function pointer is a variable that stores the address of function that can be called later throuhgh that function pointer
 
 ## Initlization and calling
 
